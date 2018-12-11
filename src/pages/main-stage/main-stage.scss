@@ -1,3 +1,11 @@
 page-main-stage{
-
+  .scroll-content{
+    overflow-y: hidden;
+  }
+  .map-container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../assets/imgs/map.png");
+    background-size: 100% 100%;
+  }
 }
